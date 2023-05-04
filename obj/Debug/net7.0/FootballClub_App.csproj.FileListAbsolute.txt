@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\bin\Debug\net7.0\FootballClub_App.exe
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\bin\Debug\net7.0\FootballClub_App.deps.json
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\bin\Debug\net7.0\FootballClub_App.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\bin\Debug\net7.0\FootballClub_App.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\bin\Debug\net7.0\FootballClub_App.pdb
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\refint\FootballClub_App.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.pdb
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\FootballClub_App.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\FootballClub_App\obj\Debug\net7.0\ref\FootballClub_App.dll
